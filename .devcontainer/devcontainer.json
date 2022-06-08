@@ -33,8 +33,7 @@
 	"features": {
 		"kubectl-helm-minikube": "latest",
 		"github-cli": "latest",
-		"aws-cli": "latest",
-		"homebrew": "latest"
-	},
-	"postStartCommand": "brew install mongosh"
+		"aws-cli": "latest"
+	}
+	// "postStartCommand": "brew install mongosh"
 }
